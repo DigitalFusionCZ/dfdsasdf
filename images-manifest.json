@@ -1,0 +1,104 @@
+{
+  "generated_at": "2025-08-05T19:32:57.927Z",
+  "total_images": 14,
+  "images": [
+    {
+      "original_url": "http://www.akkasparek.com/wp-content/uploads/2018/04/logo04.png",
+      "file_path": "public/images/logo-akkas-parek.png",
+      "file_name": "logo-akkas-parek.png",
+      "description": "The current logo for Akkas Parek, a black logomark and wordmark on a transparent background. Context: Site-wide, appears in the header/branding. Represents the company identity. While functional, it is a basic design and could be updated for a more modern, professional look.",
+      "size_bytes": 15663
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/DSC_0080_02.jpg",
+      "file_path": "public/images/team-zbynek-kasparek-office.jpg",
+      "file_name": "team-zbynek-kasparek-office.jpg",
+      "description": "A headshot of JUDr. Zbyněk Kašpárek, LL.M. sitting at a desk with an open laptop, looking directly at the camera. A large wooden bookcase filled with books is visible in the background. Context: Likely part of an 'About Us' or 'Team' section. Shows a key individual in a professional setting. Good lighting and composition, high resolution.",
+      "size_bytes": 768190
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/DSC_0180webBW02.jpg",
+      "file_path": "public/images/team-zbynek-kasparek-portrait.jpg",
+      "file_name": "team-zbynek-kasparek-portrait.jpg",
+      "description": "A black and white portrait of JUDr. Zbyněk Kašpárek, LL.M. dressed in a suit, with his arms crossed, looking confidently at the camera. Context: Part of the 'About Us' or 'Team' section. Provides a clear, professional headshot of a team member. Good lighting and resolution.",
+      "size_bytes": 517623
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/zdenekk09.jpg",
+      "file_path": "public/images/team-zdenek-kasparek-portrait.png",
+      "file_name": "team-zdenek-kasparek-portrait.png",
+      "description": "A black and white portrait of JUDr. Zdeněk Kašpárek, CSc. dressed in a suit, with his arms crossed, looking directly at the camera. Context: Part of the 'About Us' or 'Team' section. Provides a clear, professional headshot of a team member. Good lighting and resolution.",
+      "size_bytes": 195609
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/charuza01.jpg",
+      "file_path": "public/images/team-jan-charuza-portrait.png",
+      "file_name": "team-jan-charuza-portrait.png",
+      "description": "A black and white portrait of JUDr. Jan Charuza dressed in a suit, with his arms crossed, looking directly at the camera. Context: Part of the 'About Us' or 'Team' section. Provides a clear, professional headshot of a team member. Good lighting and resolution.",
+      "size_bytes": 131644
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/pavlam01.jpg",
+      "file_path": "public/images/team-pavla-nohejlova-portrait.png",
+      "file_name": "team-pavla-nohejlova-portrait.png",
+      "description": "A black and white portrait of Pavla Nohejlová dressed in a blazer and white shirt, holding the lapels, and looking directly at the camera. Context: Part of the 'About Us' or 'Team' section. Provides a clear, professional headshot of a team member. Good lighting and resolution.",
+      "size_bytes": 276574
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/obcanske-pravo_01.jpg",
+      "file_path": "public/images/civil-law-book-ring.jpg",
+      "file_name": "civil-law-book-ring.jpg",
+      "description": "A close-up of a black legal textbook titled 'Právo Občanské I-V' (Civil Law I-V), with a gold ring resting on top. The background is a dark, subtly textured surface. Context: Used to symbolize civil law services or legal expertise. Good focus and composition, high resolution. Reinforces the legal theme.",
+      "size_bytes": 659354
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/finance-m-1-1.jpg",
+      "file_path": "public/images/client-consultation-finance.jpg",
+      "file_name": "client-consultation-finance.jpg",
+      "description": "Two clients, a man and a woman, are seated at a table with a male lawyer or consultant. The lawyer is pointing to a calculator, suggesting a discussion about finances or legal costs. Context: Likely used to represent consultation services, client interaction, or financial law. Good composition, well-lit, shows interaction.",
+      "size_bytes": 224994
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/trestni_pravo_01.jpg",
+      "file_path": "public/images/criminal-law-book-folder.jpg",
+      "file_name": "criminal-law-book-folder.jpg",
+      "description": "A black legal textbook titled 'Trestní Právo' (Criminal Law) resting on two file folders on a wooden desk. A metal paper fastener is also visible. Context: Used to symbolize criminal law services or legal documentation. Good focus and composition, high resolution. Reinforces the legal theme.",
+      "size_bytes": 868248
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/obchodni_pravo_01.jpg",
+      "file_path": "public/images/commercial-law-desk-items.jpg",
+      "file_name": "commercial-law-desk-items.jpg",
+      "description": "An open planner with two business cards and a pen, positioned on a wooden desk. A vintage-style desk organizer with an inkwell and pen is blurred in the background on the left. Context: Used to symbolize commercial law services, planning, or business. Good composition and lighting.",
+      "size_bytes": 668528
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/man-working-with-modern-devices-m-1-1.jpg",
+      "file_path": "public/images/digital-analysis-business-charts.jpg",
+      "file_name": "digital-analysis-business-charts.jpg",
+      "description": "A top-down view of hands interacting with a tablet displaying business graphs and charts, while holding a smartphone. A pen and some documents are also on the wooden desk. Context: Represents modern legal practice, data analysis, or business law services. Good composition, sharp image.",
+      "size_bytes": 422313
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/spravni-pravo_02.jpg",
+      "file_path": "public/images/czech-passport-admin-law.jpg",
+      "file_name": "czech-passport-admin-law.jpg",
+      "description": "A Czech passport ('EVROPSKÁ UNIE ČESKÁ REPUBLIKA - CESTOVNÍ PAS') standing upright on a textured surface, with a blurred dark object in the background. Context: Used to symbolize administrative law, international law, or citizenship services. Clear and well-focused, good resolution.",
+      "size_bytes": 858930
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/corporate-buildings-white-1-1.jpg",
+      "file_path": "public/images/legal-services-corporate-buildings.jpg",
+      "file_name": "legal-services-corporate-buildings.jpg",
+      "description": "A bright, light-toned image showing a low-angle view of modern corporate buildings soaring into the sky. The image has a somewhat desaturated or washed-out look. Context: Used as a background or section header image, symbolizing corporate law, business, or the legal landscape. The quality is acceptable but the washed-out style might need adjustment for modern design.",
+      "size_bytes": 215242
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/11/20170612101311_hammer-802301_960_720.jpg",
+      "file_path": "public/images/justice-gavel-scales.jpg",
+      "file_name": "justice-gavel-scales.jpg",
+      "description": "A wooden gavel and sound block, positioned in front of a small golden scale of justice, with a dark, open case in the background. Context: Used to symbolize justice, litigation, or general legal services. Good recognition as a legal motif, sharp image quality, good composition.",
+      "size_bytes": 154881
+    }
+  ]
+}
